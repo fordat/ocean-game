@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boat Draft
+* source:	https://sketchfab.com/3d-models/boat-draft-321f6cd84bed4a27ba81171dc72f9eaf
+* author:	MariiaZhk (https://sketchfab.com/MariiaZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boat Draft" (https://sketchfab.com/3d-models/boat-draft-321f6cd84bed4a27ba81171dc72f9eaf) by MariiaZhk (https://sketchfab.com/MariiaZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

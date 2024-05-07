@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tinny aka Aluminium Boat
+* source:	https://sketchfab.com/3d-models/tinny-aka-aluminium-boat-cc13555218c74644a30eb0dcf8209f50
+* author:	Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tinny aka Aluminium Boat" (https://sketchfab.com/3d-models/tinny-aka-aluminium-boat-cc13555218c74644a30eb0dcf8209f50) by Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
